@@ -1,8 +1,7 @@
 package Array;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import javax.security.sasl.SaslClient;
+import java.util.*;
 
 public class FourSum {
     static List<List<Integer>> fourSum(int[] nums, int target) {
